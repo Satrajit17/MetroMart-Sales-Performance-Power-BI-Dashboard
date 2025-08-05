@@ -57,13 +57,13 @@ Used **TopoJSON file** (`in.json`) with India's state boundaries to create a **c
 ## 📷 Preview
 
 ### 🔸 Overview Page
-![Overview](Screenshots/dashboard_main.png)
+![Overview](Screenshot 2025-08-06 001224.png)
 
 ### 🔸 Sales Details
-![Sales Details](Screenshots/dashboard_sales.png)
+![Sales Details](Screenshot 2025-08-06 001251.png)
 
 ### 🔸 Logistics Insights
-![Logistics](Screenshots/dashboard_logistics.png)
+![Logistics](Screenshot 2025-08-06 001324.png)
 
 ---
 
